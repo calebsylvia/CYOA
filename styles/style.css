@@ -1,0 +1,32 @@
+body{
+    background-image: url('/assets/backgroundonelol.jpeg');
+    
+}
+
+.first_fight h1{
+    color: white;
+    text-align: center;
+}
+
+.first_fight img {
+    padding-bottom: 20px;
+    padding-left: 25px;
+    width: 200px;
+}
+
+.textbox_first {
+    border: 2px blue solid;
+    font-size: 22px;
+    color: white;
+}
+.links_first {
+    padding-top: 10px;
+}
+.links_first a, button{
+    justify-content: center;
+    width: 250px;
+    height: 70px;
+}
+.links_first button:hover {
+    background-color: rgb(59, 1, 250);
+}
