@@ -1,7 +1,14 @@
-body{
-    background-image: url('/assets/backgroundonelol.jpeg');
+/* Start Page*/
+
+.start_header {
+    text-align: center;
     
 }
+
+
+
+
+/* First Fight */
 
 .first_fight h1{
     color: white;
