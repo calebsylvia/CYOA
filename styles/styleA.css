@@ -1,0 +1,30 @@
+body{
+    background-image: url('/assets/backgroundonelol.jpeg');
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+img {
+    padding-bottom: 20px;
+    padding-left: 25px;
+    width: 200px;
+}
+
+.textbox {
+    border: 2px blue solid;
+    font-size: 22px;
+    color: white;
+}
+
+.links a, button{
+    justify-content: center;
+    width: 250px;
+    height: 70px;
+}
+.links button:hover {
+    background-color: rgb(59, 1, 250);
+}
