@@ -24,7 +24,7 @@
 
 .first_fight img {
     padding-bottom: 20px;
-    padding-left: 25px;
+    padding-left: 365px;
     width: 200px;
 }
 
@@ -43,6 +43,7 @@
     justify-content: center;
     width: 450px;
     height: 70px;
+    font-size: 35px;
 }
 .links_first button:hover {
     background-color: rgb(59, 1, 250);
