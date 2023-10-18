@@ -2,7 +2,14 @@
 
 .start_header {
     text-align: center;
-    
+    font-family: 'Cinzel', serif;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.start_cont {
+    margin: auto;
+    width: 25%;
+    padding: 15px;
 }
 
 
@@ -27,11 +34,14 @@
     color: white;
 }
 .links_first {
-    padding-top: 10px;
+    margin: auto;
+    display: flex;
+    padding: 15px;
+    width: 95%;
 }
 .links_first a, button{
     justify-content: center;
-    width: 250px;
+    width: 450px;
     height: 70px;
 }
 .links_first button:hover {
