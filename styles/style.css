@@ -6,11 +6,13 @@
     font-size: 50px;
     padding-top: 20px;
 }
+
 .start_cont {
     margin: auto;
     width: 25%;
     padding: 15px;
 }
+
 
 
 
@@ -28,10 +30,12 @@
     width: 200px;
 }
 
+
 .textbox_first {
     border: 2px blue solid;
     font-size: 22px;
     color: white;
+    text-align: center;
 }
 .links_first {
     margin: auto;
@@ -39,6 +43,7 @@
     padding: 15px;
     width: 95%;
 }
+
 .links_first a, button{
     justify-content: center;
     width: 450px;
