@@ -10,6 +10,7 @@ body {
     font-size: 50px;
     padding-top: 20px;
 }
+
 .start_cont {
     /* margin: auto;
     width: 25%;
@@ -36,18 +37,21 @@ body {
     color: white;
     text-align: center;
 }
+
 .links_first {
     margin: auto;
     display: flex;
     padding: 15px;
     width: 95%;
 }
+
 .links_first a, button{
     justify-content: center;
     width: 450px;
     height: 70px;
     font-size: 35px;
 }
+
 .links_first button:hover {
     background-color: rgb(59, 1, 250);
 }
@@ -56,4 +60,147 @@ body {
     text-align: center;
     display: flex;
     justify-content: space-around;
+}
+
+/* Second fight */
+
+.second_fight h1{
+    color: white;
+    text-align: center;
+}
+
+.second_fight img {
+    width: 200px;
+}
+
+.textbox_second {
+    border: 8px blue double;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+
+.links_second {
+    margin: auto;
+    display: flex;
+    padding: 15px;
+    width: 95%;
+}
+
+.links_second a, button{
+    justify-content: center;
+    width: 450px;
+    height: 70px;
+    font-size: 35px;
+}
+
+.links_second button:hover {
+    background-color: rgb(59, 1, 250);
+}
+
+/* Third fight */
+
+.third_fight h1{
+    color: white;
+    text-align: center;
+}
+
+.third_fight img {
+    width: 200px;
+}
+
+.textbox_third {
+    border: 8px blue double;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+
+.links_third {
+    margin: auto;
+    display: flex;
+    padding: 15px;
+    width: 95%;
+}
+
+.links_third a, button{
+    justify-content: center;
+    width: 450px;
+    height: 70px;
+    font-size: 35px;
+}
+
+.links_third button:hover {
+    background-color: rgb(59, 1, 250);
+}
+
+/* Fourth fight */
+
+.fourth_fight h1{
+    color: white;
+    text-align: center;
+}
+
+.fourth_fight img {
+    width: 200px;
+}
+
+.textbox_fourth {
+    border: 8px blue double;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+
+.links_fourth {
+    margin: auto;
+    display: flex;
+    padding: 15px;
+    width: 95%;
+}
+
+.links_fourth a, button{
+    justify-content: center;
+    width: 450px;
+    height: 70px;
+    font-size: 35px;
+}
+
+.links_fourth button:hover {
+    background-color: rgb(59, 1, 250);
+}
+
+/* Fifth fight */
+.fifth_fight h1{
+    color: white;
+    text-align: center;
+}
+
+.fifth_fight img {
+    width: 200px;
+}
+
+.textbox_fifth {
+    border: 8px blue double;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+
+.links_fifth {
+    margin: auto;
+    display: flex;
+    padding: 15px;
+    width: 95%;
+}
+
+.links_fifth a, button{
+    justify-content: center;
+    width: 450px;
+    height: 70px;
+    font-size: 35px;
+}
+
+.links_fifth button:hover {
+    background-color: rgb(59, 1, 250);
 }
