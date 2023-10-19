@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 /* Start Page*/
 
 .start_header {
@@ -23,15 +27,14 @@
 }
 
 .first_fight img {
-    padding-bottom: 20px;
-    padding-left: 365px;
     width: 200px;
 }
 
 .textbox_first {
-    border: 2px blue solid;
+    border: 8px blue double;
     font-size: 22px;
     color: white;
+    text-align: center;
 }
 .links_first {
     margin: auto;
@@ -47,4 +50,10 @@
 }
 .links_first button:hover {
     background-color: rgb(59, 1, 250);
+}
+
+.flexMe {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
 }
