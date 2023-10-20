@@ -253,3 +253,29 @@
     color: whitesmoke;
     background-color: lightgreen;
 }
+
+#first-fight{
+    background-image: url('/assets/backgroundonelol.jpeg');
+            opacity: 1;
+            background-color: black;
+}
+
+#second-fight{
+    background-image: url('/assets/backgroundonelol.jpeg');
+    opacity: 1;
+}
+
+#third-fight {
+    background-image: url('/assets/backgroundonelol.jpeg');
+    opacity: 1;
+}
+
+#fourth-fight {
+    background-image: url('/assets/backgroundonelol.jpeg');
+    opacity: 1;
+}
+
+#fifth-fight {
+    background-image: url('/assets/backgroundonelol.jpeg');
+    opacity: 1;
+}
