@@ -1,5 +1,7 @@
-body {
-    background-color: black;
+.flexMe {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
 }
 
 /* Start Page*/
@@ -11,11 +13,7 @@ body {
     padding-top: 20px;
 }
 
-.start_cont {
-    /* margin: auto;
-    width: 25%;
-    padding: 15px; */
-}
+
 
 
 
@@ -56,11 +54,7 @@ body {
     background-color: rgb(59, 1, 250);
 }
 
-.flexMe {
-    text-align: center;
-    display: flex;
-    justify-content: space-around;
-}
+
 
 /* Second fight */
 
@@ -203,4 +197,37 @@ body {
 
 .links_fifth button:hover {
     background-color: rgb(59, 1, 250);
+}
+
+
+
+
+/*Win Screen */
+.winDec {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+
+
+
+/* End Screen */
+
+.playAgain {
+    display: flex;
+    height: 700px;
+    justify-content: center;
+    align-items: end;
+}
+
+.playAgainBtn {
+    background-color: transparent;
+    text-align: center;
+}
+
+.playAgainBtn:hover {
+    color: lightgreen;
 }
