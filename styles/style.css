@@ -219,9 +219,23 @@
 
 /* End Screen */
 
-.playAgain {
+.playAgain1 {
     display: flex;
-    height: 700px;
+    height: 500px;
+    justify-content: center;
+    align-items: end;
+}
+
+.playAgain2 {
+    display: flex;
+    height: 454px;
+    justify-content: center;
+    align-items: end;
+}
+
+.playAgain3 {
+    display: flex;
+    height: 546px;
     justify-content: center;
     align-items: end;
 }
