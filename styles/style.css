@@ -21,6 +21,7 @@
 
 
 
+
 /* First Fight */
 
 .first_fight h1{
@@ -205,7 +206,7 @@
 
 
 
-/*Win Screen */
+/*PlayAgainScreens Screen */
 .winDec {
     color: white;
     text-align: center;
@@ -213,6 +214,8 @@
     -webkit-text-stroke: 1px;
     -webkit-text-stroke-color: black;
 }
+
+
 
 
 
