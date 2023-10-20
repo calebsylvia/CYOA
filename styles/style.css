@@ -13,6 +13,9 @@
     padding-top: 20px;
 }
 
+.start_cont :hover {
+    background-color: lightblue;
+}
 
 
 
@@ -224,10 +227,12 @@
 }
 
 .playAgainBtn {
+    color: white;
     background-color: transparent;
     text-align: center;
 }
 
 .playAgainBtn:hover {
-    color: lightgreen;
+    color: whitesmoke;
+    background-color: lightgreen;
 }
