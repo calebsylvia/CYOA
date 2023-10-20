@@ -17,6 +17,9 @@
     background-color: lightblue;
 }
 
+#start {
+    background-image: url("/assets/startbglol.jpeg");
+}
 
 
 
@@ -253,6 +256,36 @@
     color: whitesmoke;
     background-color: lightgreen;
 }
+
+#win {
+    min-height: 100%;
+    background-image: url('/assets/endbgcyoa.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+#lose {
+            min-height: 100%;
+            background-image: url('/assets/endbgcyoa.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin: 0;
+}
+
+
+#neutral {
+         min-height: 100%;
+            background-image: url('/assets/neutralbg.jpeg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+}
+
+
+/* last minute edits */
 
 #first-fight{
     background-image: url('/assets/backgroundonelol.jpeg');
